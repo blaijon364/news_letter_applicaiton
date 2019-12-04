@@ -1,4 +1,4 @@
-THANK YOU FOR THE CHALLENGE.
+
 
 Applications USED:
 
@@ -7,7 +7,7 @@ Applications USED:
 -React-router
 
 ## Task
- Application is suppose to display and browse news using the React.js framework. 
+ Church Application is suppose to display and browse news using the React.js framework. 
  
 
 Display the top news from the default API endpoint (link to the API documentation below). 
