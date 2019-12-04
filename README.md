@@ -29,7 +29,7 @@ API Please create a News API account (free for development purposes) and use the
 Note: The content coming from the server is limited to 260 characters using a developer account. 
 
 
-## The wireframes of the application can be found on upwork.
+## The wireframes of the application can be found here.
 Create a news application as close as possible to the following image:
 ![WireFrame 1](https://agora-file-storage-prod.s3.us-west-1.amazonaws.com/opening-attachments/2939356939849922021?response-content-disposition=inline%3B%20filename%3D%22wireframe-1.jpg%22%3B%20filename%2A%3Dutf-8%27%27wireframe-1.jpg&X-Amz-Security-Token=FwoGZXIvYXdzEBQaDOwSDB75J770jNMM4yLtA2OHnGGYAClrcpvJHC%2FXPW4e%2BrDcd4fVkXtPNsceLH9%2FHcK31CkHkfwTUfe4QZj9cAT90WB4kprVGqujwImly4A%2BFB7G%2F6azKWsPN4EN7DpIx7ecvC%2F41lpxkL9Q8Zc%2F660oLVWGnDboQQ%2FbilRBVwpXwQLn7z2pFyCH01bk0rBPYb%2F2T64ABK3%2FdnkLDTHuvdBcJrjOtpnZNOU1kmDMV7vptFFQ8tFBzHB5vKuR1yzfuN8oNbsOFCPtNrTk%2F9jf34cvcyIsrkK51VDjvDDqS3O0vy6bftfdtTj9tGW3XvUqUB%2FJuVPfgx7fIp2oLf4mdWWpKH51KRVFHNFDnoGQvJ14r%2FvxB%2F2PLu3krvHIQjXX0Vbwp7%2BqRYpRurTxyGLdH4sQmlCI2f7nID1VSPK5Ums57Ewu%2BdFuqmrd6ZxjMC3sPWyUpxAFuU%2Fp%2FuYsbN1HACXEilwyCC4XEhpYP%2FIlQeSV6OD3ZYPqHrQy1CDhsl3JXs%2FvbiZDqh0%2BgvAZaGpUf8HLp%2BV0jp%2F1D8oLsuZHK65odYgyV1mhTJuE3mbvI6DladAqbOtxlcywotYgh4TU9%2FhxCxZS2PPW6XiwPNA10qfox2alLeB5WU9a9h3AMFA0EcNX7Y9OtHWntwxBmsODzRfzuffhrk3%2FOnFnPs0o4faf7wUyOYeo1rnMUOnzVeSptE42CLr3NusKaMBk%2B7KdctkOhPXErr47crV3SF%2Fb0P0wCAs2VZ2Qd9LGB0jWFw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191204T190835Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21599&X-Amz-Credential=ASIA2YR6PYW5Y7GNJG7C%2F20191204%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Signature=12886e5140c6a132dfe71d7b31926b4a6ef4592ba2ac31b8271796c571cc4af9)
 
