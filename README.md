@@ -9,7 +9,7 @@ Applications USED:
 ## Task
  Application is suppose to display and browse news using the React.js framework. 
  
-The wireframes of the application can be found below. 
+## The wireframes of the application can be found on upwork. 
 
 Display the top news from the default API endpoint (link to the API documentation below). 
 
